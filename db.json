@@ -1,0 +1,41 @@
+{
+  "articles": [
+    {
+      "id": "1",
+      "title": "Example Article",
+      "content": "This is an example."
+    },
+    {
+      "id": "2",
+      "title": "Second Article",
+      "content": "This is also an example."
+    },
+    {
+      "id": "3",
+      "title": "Example Article",
+      "content": "This is an example."
+    },
+    {
+      "id": "c1aa",
+      "title": "Example Article",
+      "content": "This is an example."
+    },
+    {
+      "id": "d53c",
+      "title": "Third Article",
+      "content": "Another example!"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Ahmed",
+      "email": "a@b.c"
+    },
+    {
+      "id": "cba9",
+      "name": "new",
+      "email": "e"
+    }
+  ]
+}
